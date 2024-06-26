@@ -57,6 +57,8 @@ COCO
 ```
 conda create -n yolov10 python=3.9
 conda activate yolov10
+git clone https://github.com/MohammadRobot/yolov10.git
+cd youlov10
 pip install -r requirements.txt
 pip install -e .
 ```
